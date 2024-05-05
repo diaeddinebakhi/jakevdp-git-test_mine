@@ -12,3 +12,8 @@ def fib(n):
 
 print_hello_world()
 print(list(fib(10)))
+
+def ty():
+    print('Thank you so much')
+
+ty()
